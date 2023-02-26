@@ -11,6 +11,9 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+# Changes to gutenberg documents
+HTML was kept as is. Had to change the alignment of cover images. Changed font and seamless background theming to make it look old style.
+
 # References/Acknowledgements
 
 Part of gutenberg css was kept as is from original source.
