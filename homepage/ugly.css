@@ -1,0 +1,65 @@
+html,
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  height: 100%;
+  background-image: url("assets/wp10320828.webp");
+}
+
+.icon {
+  margin: 0;
+  margin-bottom: 10px;
+  margin-right: 0;
+  width: 2rem;
+  height: 2rem;
+}
+#skills-icon {
+  margin: 2rem;
+}
+
+#projects {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+img#tool {
+  width: 100px;
+  height: 100px;
+}
+.container {
+  display: flex;
+}
+
+ul.horizontal {
+  list-style-type: none;
+  margin: 1rem;
+  padding: 0;
+  overflow: hidden;
+  background: linear-gradient(90deg, blue, grey);
+}
+
+li a {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  font-weight: 600;
+}
+.icon {
+  margin: 0;
+  margin-bottom: 10px;
+  margin-right: 0;
+  width: 2rem;
+  height: 2rem;
+}
+
+.socials {
+  padding: 0%;
+  float: right;
+  height: 20px;
+}

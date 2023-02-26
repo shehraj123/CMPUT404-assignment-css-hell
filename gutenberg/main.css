@@ -1,0 +1,130 @@
+body {
+  background-image: url("./assets/seamless-wood-texture-2.webp");
+  background-size: contain;
+  background-repeat: repeat-y;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: justify;
+  font-family: Sofia;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  text-align: center;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.5;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+h1 {
+  font-family: "Tangerine";
+  font-size: 300%;
+  margin-top: 0.6em;
+  margin-bottom: 0.6em;
+  letter-spacing: 0.12em;
+  word-spacing: 0.2em;
+  text-indent: 0em;
+}
+h2 {
+  text-decoration: underline;
+  font-family: "Tangerine";
+  font-size: 200%;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+h3 {
+  font-family: Tangerine;
+  font-size: 200%;
+  margin-top: 2em;
+}
+h4 {
+  font-family: Tangerine;
+  font-size: 120%;
+}
+h5 {
+  font-family: Tangerine;
+  font-size: 110%;
+}
+
+hr {
+  width: 80%;
+  margin-top: 2em;
+  margin-bottom: 12em;
+}
+
+div.chapter {
+  padding: 6rem;
+  page-break-before: always;
+  margin-top: 6em;
+}
+p {
+  font-family: "Tangerine";
+  font-size: 170%;
+  text-indent: 1em;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+}
+
+img {
+  border: 10rem;
+  border-width: 10px;
+  border-color: black;
+  width: 100%;
+}
+
+.p2 {
+  margin-top: 2em;
+}
+p.poem {
+  text-indent: 0%;
+  margin-left: 10%;
+  font-size: 140%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+p.letter {
+  text-indent: 0%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+p.right {
+  text-align: right;
+  margin-right: 10%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+p.intro {
+  font-size: 140%;
+  text-indent: 0%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 2em;
+}
+
+img.cover {
+  border-color: black;
+  border-width: 5px;
+  border-style: double;
+  width: auto;
+}
+
+div.fig {
+  display: flex;
+  justify-content: center;
+}
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+}
